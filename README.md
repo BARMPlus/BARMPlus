@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=BARMPlus&color=green)
 
+![](https://github.com/XadillaX/XadillaX/raw/master/T1dgrQXgVqXXbmvNQW_023659.jpg)
+
 - 🔭 I’m currently working on my project dna
 - 🌱 I’m currently learning Vue3 & Typescript
 
