@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=BARMPlus&color=green)
 
 #### This is my cat 🐈. His name is Jess. He's a boy.
-![](https://raw.githubusercontent.com/BARMPlus/BARMPlus/master/cat.jpg)
+<img src="https://raw.githubusercontent.com/BARMPlus/BARMPlus/master/cat.jpg" width="200" height="240" align=center />
 
 - 🔭 I’m currently working on my project dna
 - 🌱 I’m currently learning Vue3 & Typescript
