@@ -28,7 +28,7 @@ code with :  👇
 ## 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [低代码的那些事](https://blog.ccz.life/post/71)
+- [低代码：现在我怎么样了](https://blog.ccz.life/post/71)
 - [震惊！2023 年 3 月 23 日后，Github既然无法提交代码](https://blog.ccz.life/post/70)
 - [全面了解 Low Code 引擎之什么是低代码](https://blog.ccz.life/post/69)
 - [2022年自我总结](https://blog.ccz.life/post/1)
