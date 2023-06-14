@@ -28,11 +28,11 @@ code with :  👇
 ## 📝 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Code 会让前端失业吗？](https://blog.ccz.life/post/72)
 - [低代码：现在我怎么样了](https://blog.ccz.life/post/71)
 - [Github RSA SSH Host Key 泄露事件详解](https://blog.ccz.life/post/70)
 - [全面了解 Low Code 引擎之什么是低代码](https://blog.ccz.life/post/69)
 - [2022年自我总结](https://blog.ccz.life/post/1)
-- [ARP 攻击](https://blog.ccz.life/post/35)
 <!-- BLOG-POST-LIST:END -->
 
 <picture>
