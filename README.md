@@ -5,10 +5,6 @@
 
 ---
 
-#### This is my cat 🐈 , His name is Hamburg 🍔
-
-<img src="https://raw.githubusercontent.com/BARMPlus/BARMPlus/master/assets/cat.jpg" width="200" height="240" align=center />
-
 - 🌱 I’m currently learning LowCode
 - 🔭 I’m currently doing DevOps platform, platform engineering SaaS, LowCode
 - 📫 How to reach me **ccz_work@189.cn**
@@ -23,29 +19,9 @@ code with :  👇
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-&nbsp;
-
-## 📝 Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [前端发布的那些事](https://blog.ccz.life/post/75)
-- [木马浅学](https://blog.ccz.life/post/74)
-- [ARP 攻击](https://blog.ccz.life/post/35)
-- [ChatGPT 中的 token 是什么](https://blog.ccz.life/post/73)
-- [AI Code 会让前端失业吗？](https://blog.ccz.life/post/72)
-<!-- BLOG-POST-LIST:END -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BARMPlus/BARMPlus/master/assets/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BARMPlus/BARMPlus/master/assets/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-&nbsp;
-
 ## 📊 Github stats
 
-<details> 
+<details open> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
    <a href="https://github.com/anuraghazra/github-readme-stats">
